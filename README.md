@@ -5,7 +5,7 @@
 1. use `python3 -m venv ./env` to create a new virtual environment.
 2. Run `source ./env/bin/activate` to activate the virtual environment.
 3. Install program's requirements by running `pip3 install -r requirements.txt`.
-4. Run `python3 project.py`.
+4. Run `python3 project.py` and follow the instructions.
 
 ## Algorithm 
 
